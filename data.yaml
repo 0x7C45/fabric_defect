@@ -1,0 +1,28 @@
+path: F:\AI\Data\yolov8_fabric_defect
+train: images/train
+val: images/val
+test: images/test
+
+# Class names
+names:
+  0: "no_defect"
+  1: "hole"
+  2: "stain"
+  3: "three_strands"
+  4: "knot"
+  5: "flower_jump"
+  6: "hundred_feet"
+  7: "hair_balls"
+  8: "coarse_warp"
+  9: "loose_warp"
+  10: "broken_warp"
+  11: "hanging_warp"
+  12: "coarse_weft"
+  13: "weft_shrink"
+  14: "starch_spot"
+  15: "warp_knot"
+  16: "star_jump"
+  17: "broken_spandex"
+  18: "uneven_density"
+  19: "surface_defect"
+  20: "weave_defect"

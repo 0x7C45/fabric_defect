@@ -1,28 +1,10 @@
-path: F:\AI\Data\yolov8_fabric_defect
+# data.yaml
+path: ./yolo_dataset
 train: images/train
 val: images/val
-test: images/test
 
-# Class names
-names:
-  0: "no_defect"
-  1: "hole"
-  2: "stain"
-  3: "three_strands"
-  4: "knot"
-  5: "flower_jump"
-  6: "hundred_feet"
-  7: "hair_balls"
-  8: "coarse_warp"
-  9: "loose_warp"
-  10: "broken_warp"
-  11: "hanging_warp"
-  12: "coarse_weft"
-  13: "weft_shrink"
-  14: "starch_spot"
-  15: "warp_knot"
-  16: "star_jump"
-  17: "broken_spandex"
-  18: "uneven_density"
-  19: "surface_defect"
-  20: "weave_defect"
+nc: 21  # 类别数量
+names: ['no_defect', 'hole', 'stain', 'three_strands', 'knot', 'flower_jump', 
+        'hundred_feet', 'hair_balls', 'coarse_warp', 'loose_warp', 'broken_warp',
+        'hanging_warp', 'coarse_weft', 'weft_shrink', 'starch_spot', 'warp_knot',
+        'star_jump', 'broken_spandex', 'uneven_density', 'surface_defect', 'weave_defect']

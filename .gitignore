@@ -1,1 +1,5 @@
-images/
+test/
+data_test/*.jpg
+data_train/defect_Images/*.jpg
+data_train/normal_Images/*.jpg
+yolo_dataset/

@@ -1,0 +1,1 @@
+yolo detect predict model=./train/weights/best.pt source=./data_test/ project=test name=predict

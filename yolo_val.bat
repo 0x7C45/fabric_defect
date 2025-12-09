@@ -1,0 +1,1 @@
+yolo detect val model=./train/weights/best.pt data=./yolo_dataset/data.yaml project=test name=val exist_ok=True

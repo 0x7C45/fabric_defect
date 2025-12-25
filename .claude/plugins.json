@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "lastUpdated": 1766243535125,
+  "plugins": [
+    {
+      "filename": "prompt-engineer.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents\\ai-specialists\\prompt-engineer.md",
+        "filename": "prompt-engineer.md",
+        "name": "prompt-engineer",
+        "description": "Expert prompt optimization for LLMs and AI systems. Use PROACTIVELY when building AI features, improving agent performance, or crafting system prompts. Masters prompt patterns and techniques.",
+        "tools": [
+          "Read",
+          "Write",
+          "Edit"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 3147,
+        "contentHash": "6e5d842f3e796ace83e28df3c71e34d309f1fbb8a3b4f92b1c8d0c757de201b6",
+        "installedAt": 1766243472286,
+        "updatedAt": 1766243472286
+      }
+    },
+    {
+      "filename": "ai-engineer.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents\\data-ai\\ai-engineer.md",
+        "filename": "ai-engineer.md",
+        "name": "ai-engineer",
+        "description": "LLM application and RAG system specialist. Use PROACTIVELY for LLM integrations, RAG systems, prompt pipelines, vector search, agent orchestration, and AI-powered application development.",
+        "tools": [
+          "Read",
+          "Write",
+          "Edit",
+          "Bash"
+        ],
+        "category": "data-ai",
+        "type": "agent",
+        "size": 1267,
+        "contentHash": "16b4f153208818009995e81ffc760c6c33c49d55acb947bd002c0e2251403b55",
+        "installedAt": 1766243485406,
+        "updatedAt": 1766243485406
+      }
+    },
+    {
+      "filename": "hackathon-ai-strategist.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents\\ai-specialists\\hackathon-ai-strategist.md",
+        "filename": "hackathon-ai-strategist.md",
+        "name": "hackathon-ai-strategist",
+        "description": "Expert hackathon strategist and judge. Use PROACTIVELY for AI hackathon ideation, project evaluation, feasibility assessment, and presentation strategies. Specializes in winning concepts within time constraints.",
+        "tools": [
+          "Read",
+          "WebSearch",
+          "WebFetch"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 2968,
+        "contentHash": "abe5692c764b40316f3b3319b0a546970bfc92f7de43eb6c556d922dd02414ff",
+        "installedAt": 1766243510122,
+        "updatedAt": 1766243510122
+      }
+    },
+    {
+      "filename": "ai-ethics-advisor.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents\\ai-specialists\\ai-ethics-advisor.md",
+        "filename": "ai-ethics-advisor.md",
+        "name": "ai-ethics-advisor",
+        "description": "AI ethics and responsible AI development specialist. Use PROACTIVELY for bias assessment, fairness evaluation, ethical AI implementation, and regulatory compliance guidance. Expert in AI safety and alignment.",
+        "tools": [
+          "Read",
+          "Write",
+          "WebSearch",
+          "Grep"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 7024,
+        "contentHash": "eb5f9f4978b71ba06f129c73f5573a58fda76481fc803b1b333b1106256ac897",
+        "installedAt": 1766243521817,
+        "updatedAt": 1766243521817
+      }
+    },
+    {
+      "filename": "penetration-tester.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents\\security\\penetration-tester.md",
+        "filename": "penetration-tester.md",
+        "name": "penetration-tester",
+        "description": "Penetration testing and ethical hacking specialist. Use PROACTIVELY for security assessments, vulnerability exploitation, network penetration, and security posture evaluation.",
+        "tools": [
+          "Read",
+          "Write",
+          "Edit",
+          "Bash"
+        ],
+        "category": "security",
+        "type": "agent",
+        "size": 1422,
+        "contentHash": "d8748a04b1c2264bd8ee11d8574277d78499bd585c49d1eecbbaf2bb17110566",
+        "installedAt": 1766243535124,
+        "updatedAt": 1766243535124
+      }
+    }
+  ]
+}
